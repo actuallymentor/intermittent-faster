@@ -1,2 +1,2 @@
-# intermittent-faster
-intermittentfaster.com
+# Intermittent Fasting
+
