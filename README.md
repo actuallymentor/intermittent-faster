@@ -8,11 +8,15 @@ Traditional wisdom tells us breakfast is the most important meal of the day. Res
 
 ## The Health Effects of IF
 
-For a detailed description on the health benefits of being an intermittent faster have a look at the [intermittent fasting science](http://www.intermittentfaster.com/intermittent-fasting-science/ "Intermittent Fasting Science") page. Be warned that it is rather dense but worth the read if you have the patience.
+For a detailed description on the health benefits of being an intermittent faster have a look at the [intermittent fasting science](/intermittent-fasting-science.html "Intermittent Fasting Science") page. Be warned that it is rather dense but worth the read if you have the patience.
 
 ### Stress defenses without the stressor
 
-In the body stress is defined much more generally than the every day word. Stress is anything that can cause damage. It can be heat, radiation, poison, oxidative stress and so on. The body is constantly bombarded with stressors but is usually capable of dealing with them. What intermittent fasting does is activating stress defenses without the need for actual stress. This means for example that it activates proteins that keep your DNA in good shape (e.g. against stress on your genetic code). There are many and varied benefits, but the principle is quite accurate. Of course it is a generalization, so if you are interested in the actual science, have a look at that page. [caption id="attachment_14" align="aligncenter" width="554"][![Intermittent Fasting and Caloric Restriction effects](http://www.intermittentfaster.com/wp-content/uploads/2013/05/Combined-Effects-of-Caloric-Restriction-and-Intermittent-Fasting1.jpg)](http://www.intermittentfaster.com/wp-content/uploads/2013/05/Combined-Effects-of-Caloric-Restriction-and-Intermittent-Fasting1.jpg) Taken from research paper by Martin et al. (2006)[/caption] If the terms above make little sense to you, have a look at the simplified list below:
+In the body stress is defined much more generally than the every day word. Stress is anything that can cause damage. It can be heat, radiation, poison, oxidative stress and so on. The body is constantly bombarded with stressors but is usually capable of dealing with them. What intermittent fasting does is activating stress defenses without the need for actual stress. This means for example that it activates proteins that keep your DNA in good shape (e.g. against stress on your genetic code). There are many and varied benefits, but the principle is quite accurate. Of course it is a generalization, so if you are interested in the actual science, have a look at that page.
+
+![Intermittent Fasting and Caloric Restriction effects](/Combined-Effects-of-Caloric-Restriction-and-Intermittent-Fasting1.jpg)
+
+Taken from research paper by Martin et al. (2006)[/caption] If the terms above make little sense to you, have a look at the simplified list below:
 
 *  Neuroprotection
 
@@ -36,7 +40,7 @@ This follows from the other effects, but is worth adding to the list. Due to the
 
 *   Much much more
 
-The problem is that all effects are linked. Please read through the [science page](http://www.intermittentfaster.com/intermittent-fasting-science/ "Intermittent Fasting Science") to have a deeper overview of the effects.
+The problem is that all effects are linked. Please read through the [science page](/intermittent-fasting-science.html "Intermittent Fasting Science") to have a deeper overview of the effects.
 
 ## Cognitive Benefits of Intermittent Fasting
 

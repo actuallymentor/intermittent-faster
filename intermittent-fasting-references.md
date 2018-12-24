@@ -1,6 +1,6 @@
 # The references used in the IF Science page
 
-The articles referenced on the page explaining [intermittent fasting science](http://www.intermittentfaster.com/intermittent-fasting-explained/ "The Science of Intermittent Fasting") are found below in APA format. If you would like to find the original article, simply put the title in [Google scholar](http://scholar.google.com). Some are available for free and most have publicly available abstracts.
+The articles referenced on the page explaining [intermittent fasting science](/intermittent-fasting-science.html "The Science of Intermittent Fasting") are found below in APA format. If you would like to find the original article, simply put the title in [Google scholar](http://scholar.google.com). Some are available for free and most have publicly available abstracts.
 
 Anson, R. M., Guo, Z., de Cabo, R., Iyun, T., Rios, M., Hagepanos, A., . . . Mattson, M. P. (2003). Intermittent fasting dissociates beneficial effects of dietary restriction on glucose metabolism and neuronal resistance to injury from calorie intake. Proceedings of the National Academy of Sciences, 100(10), 6216-6220. doi: 10.1073/pnas.1035720100
 
